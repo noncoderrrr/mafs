@@ -1,1 +1,1 @@
-if you didnt get the title, its simple calculator.
+if you didnt get the title of the file, its simple calculator.
